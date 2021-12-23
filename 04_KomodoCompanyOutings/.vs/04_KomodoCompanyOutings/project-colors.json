@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26789329-18db-406f-853c-052d0f03d306": {
+      "ProjectGuid": "26789329-18db-406f-853c-052d0f03d306",
+      "DisplayName": "04_OutingsRepository",
+      "ColorIndex": 0
+    },
+    "23da3d0e-a232-40be-b953-6cf4d2f126b6": {
+      "ProjectGuid": "23da3d0e-a232-40be-b953-6cf4d2f126b6",
+      "DisplayName": "Outings.UI",
+      "ColorIndex": 1
+    },
+    "66c0622f-ad9e-47ef-b65e-aa575eeff2a1": {
+      "ProjectGuid": "66c0622f-ad9e-47ef-b65e-aa575eeff2a1",
+      "DisplayName": "Outings.UI",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

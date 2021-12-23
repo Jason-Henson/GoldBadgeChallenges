@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\obj\Debug\06_Komodo_Green_Plan.UI.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\obj\Debug\06_Komodo_Green_Plan.UI.csproj.SuggestedBindingRedirects.cache
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\obj\Debug\06_Komodo_Green_Plan.UI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\bin\Debug\06_Komodo_Green_Plan.UI.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\bin\Debug\06_Komodo_Green_Plan.UI.exe
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\bin\Debug\06_Komodo_Green_Plan.UI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\bin\Debug\06_Komodo_Green_Plan.dll
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\bin\Debug\06_Komodo_Green_Plan.pdb
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\obj\Debug\06_Komodo_Green_Plan.UI.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\obj\Debug\06_Komodo_Green_Plan.UI.exe
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan.UI\obj\Debug\06_Komodo_Green_Plan.UI.pdb

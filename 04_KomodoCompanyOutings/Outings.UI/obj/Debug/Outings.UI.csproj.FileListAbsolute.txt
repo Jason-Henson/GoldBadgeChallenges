@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\bin\Debug\Outings.UI.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\bin\Debug\Outings.UI.exe
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\bin\Debug\Outings.UI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\bin\Debug\04_OutingsRepository.dll
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\bin\Debug\04_OutingsRepository.pdb
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\obj\Debug\Outings.UI.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\obj\Debug\Outings.UI.csproj.SuggestedBindingRedirects.cache
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\obj\Debug\Outings.UI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\obj\Debug\Outings.UI.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\obj\Debug\Outings.UI.exe
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\04_KomodoCompanyOutings\Outings.UI\obj\Debug\Outings.UI.pdb

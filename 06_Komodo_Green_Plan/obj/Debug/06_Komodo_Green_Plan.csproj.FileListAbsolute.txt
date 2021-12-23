@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan\bin\Debug\06_Komodo_Green_Plan.dll
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan\bin\Debug\06_Komodo_Green_Plan.pdb
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan\obj\Debug\06_Komodo_Green_Plan.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan\obj\Debug\06_Komodo_Green_Plan.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan\obj\Debug\06_Komodo_Green_Plan.dll
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\06_Komodo_Green_Plan\obj\Debug\06_Komodo_Green_Plan.pdb

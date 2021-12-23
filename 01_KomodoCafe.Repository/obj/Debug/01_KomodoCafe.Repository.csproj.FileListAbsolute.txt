@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\01_KomodoCafe.Repository\bin\Debug\01_KomodoCafe.Repository.dll
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\01_KomodoCafe.Repository\bin\Debug\01_KomodoCafe.Repository.pdb
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\01_KomodoCafe.Repository\obj\Debug\01_KomodoCafe.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\01_KomodoCafe.Repository\obj\Debug\01_KomodoCafe.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\01_KomodoCafe.Repository\obj\Debug\01_KomodoCafe.Repository.dll
+C:\ElevenFiftyProjects\DotNetProjects\SD_119_Lessons\GoldBageChallenges\01_KomodoCafe.Repository\obj\Debug\01_KomodoCafe.Repository.pdb
